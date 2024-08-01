@@ -1,0 +1,18 @@
+.detail-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.detail-header-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.confirm-button {
+    margin-top: 8px;
+}
+
